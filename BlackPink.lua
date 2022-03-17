@@ -12454,7 +12454,7 @@ data = {
 {text = 'القائمه الرئيسيه ', data = IdUser..'/helpall'},
 },
 {
-{text = '- قناة السورس', url = 't.me/ieeo3s'}, 
+{text = '- قناة السورس', url = 't.me/NNN8X'}, 
 },
 }
 }
@@ -12571,7 +12571,7 @@ data = {
 {text = 'القائمه الرئيسيه ', data = IdUser..'/helpall'},
 },
 {
-{text = '- قناة السورس', url = 't.me/ieeo3s'}, 
+{text = '- قناة السورس', url = 't.me/NNN8X'}, 
 },
 }
 }
