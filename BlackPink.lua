@@ -9920,7 +9920,7 @@ data = {
 {text = 'Annotations Source', url = 't.me/VV455'}, 
 },
 {
-{text = 'Communication Source', url = 't.me/FFBBBF'}, 
+{text = 'programmer Source', url = 't.me/FFBBBF'}, 
 },
 {
 {text = 'Developer Source !', url = 't.me/QFFFFF'}, 
