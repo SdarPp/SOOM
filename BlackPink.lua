@@ -716,12 +716,12 @@ else
 UserInfousername = '['..UserInfo.first_name..'](tg://user?id='..UserId..')'
 end
 return {
-Lock     = '[B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸](https://t.me/NNN8X)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه المسح *',
-unLock   = '[B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸](https://t.me/NNN8X)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n'..TextMsg,
-lockKtm  = '[B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸](https://t.me/NNN8X)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه الكتم *',
-lockKid  = '[B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸](https://t.me/NNN8X)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه التقييد *',
-lockKick = '[B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸](https://t.me/NNN8X)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه الطرد *',
-Reply    = '[B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸](https://t.me/NNN8X)\n*— — — — — — — — —\n᥀︙المستخدم ← *'..UserInfousername..'\n*'..TextMsg..'*'
+Lock     = '[𝙋𝙍𝙄𝙉𝘾𝙀](https://t.me/VV222K)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه المسح *',
+unLock   = '[𝙋𝙍𝙄𝙉𝘾𝙀](https://t.me/VV222K)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n'..TextMsg,
+lockKtm  = '[𝙋𝙍𝙄𝙉𝘾𝙀](https://t.me/VV222K)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه الكتم *',
+lockKid  = '[𝙋𝙍𝙄𝙉𝘾𝙀](https://t.me/VV222K)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه التقييد *',
+lockKick = '[𝙋𝙍𝙄𝙉𝘾𝙀](https://t.me/VV222K)\n*— — — — — — — — —\n᥀︙بواسطه ← *'..UserInfousername..'\n*'..TextMsg..'\n᥀︙خاصيه الطرد *',
+Reply    = '[𝙋𝙍𝙄𝙉𝘾𝙀 ](https://t.me/VV222K)\n*— — — — — — — — —\n᥀︙المستخدم ← *'..UserInfousername..'\n*'..TextMsg..'*'
 }
 end
 function StatusCanOrNotCan(ChatId,UserId)
@@ -1575,7 +1575,7 @@ data = {
 {text = '- الغاء الامر', data = msg.sender.user_id..'/delamrredis'},
 },
 {
-{text = 'B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸 ⁦', url='https://t.me/NNN8X'},
+{text = '𝙋𝙍𝙄𝙉𝘾𝙀 ⁦', url='https://t.me/VV222K'},
 },
 }
 }
@@ -1772,7 +1772,7 @@ data = {
 {text = '- الغاء الامر', data = msg.sender.user_id..'/delamrredis'},
 },
 {
-{text = 'B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸 ⁦', url='https://t.me/NNN8X'},
+{text = '𝙋𝙍𝙄𝙉𝘾𝙀 ⁦', url='https://t.me/VV222K'},
 },
 }
 }
@@ -2046,7 +2046,7 @@ data = {
 {text = '- الغاء الامر', data = msg.sender.user_id..'/delamrredis'},
 },
 {
-{text = 'B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸 ⁦', url='https://t.me/NNN8X'},
+{text = '𝙋𝙍𝙄𝙉𝘾𝙀 ⁦', url='https://t.me/VV222K'},
 },
 }
 }
@@ -2643,7 +2643,7 @@ data = {
 {text = '‹ تفعيل الايدي ›', data = msg.sender.user_id..'/'.. 'mute_IdPhoto'},
 },
 {
-{text = 'B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸', url = 't.me/NNN8X'},
+{text = '𝙋𝙍𝙄𝙉𝘾𝙀', url = 't.me/vv222k'},
 },
 }
 }
@@ -2726,7 +2726,7 @@ data = {
 {text = '‹ تفعيل الايدي ›', data = msg.sender.user_id..'/'.. 'mute_IdPhoto'},
 },
 {
-{text = 'B𝗹𝗮𝗰𝗸𝗽𝗶𝗻𝗸', url = 't.me/NNN8X'},
+{text = '𝙋𝙍𝙄𝙉𝘾𝙀', url = 't.me/VV222K'},
 },
 }
 }
